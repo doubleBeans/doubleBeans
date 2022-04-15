@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T08:09:43.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GkZWYfVoYMCGzTqzRKTd" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T11:37:53.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kLZ__ucgFuEI2AZXvlr9" version="17.4.4" type="github">
   <diagram id="CHTWvZ9OObj7_jBJQ946" name="Page-1">
     <mxGraphModel dx="1209" dy="1942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,14 +87,11 @@
         <mxCell id="BYqKNGFPrdksZqyR5QS9-28" value="智能合约编译" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-29" vertex="1">
           <mxGeometry x="5" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-33" value="权限统一管理模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-38" vertex="1">
-          <mxGeometry x="375" y="145" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-34" value="链码级权限模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-38" vertex="1">
           <mxGeometry x="375" y="75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-39" value="&lt;b&gt;基础设施&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="55" y="625" width="60" height="30" as="geometry" />
+        <mxCell id="BYqKNGFPrdksZqyR5QS9-39" value="&lt;b&gt;基础设施层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="53" y="625" width="62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-59" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="603" y="270" width="427" height="224" as="geometry" />
@@ -174,9 +171,6 @@
         <mxCell id="BYqKNGFPrdksZqyR5QS9-63" value="链码接口管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-68" vertex="1">
           <mxGeometry y="74" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-64" value="权限映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-68" vertex="1">
-          <mxGeometry x="139" y="74" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-71" value="&lt;b&gt;链码层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="52" y="373" width="64" height="30" as="geometry" />
         </mxCell>
@@ -198,7 +192,7 @@
         <mxCell id="BYqKNGFPrdksZqyR5QS9-77" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-82" vertex="1">
           <mxGeometry x="23" y="36" width="59" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-78" value="用户组管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-82" vertex="1">
+        <mxCell id="BYqKNGFPrdksZqyR5QS9-78" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-82" vertex="1">
           <mxGeometry x="106" y="36" width="72" height="24" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-79" value="链码接口管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-82" vertex="1">
@@ -276,7 +270,7 @@
         <mxCell id="BYqKNGFPrdksZqyR5QS9-112" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
           <mxGeometry x="601" y="70" width="255" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-113" value="&lt;b&gt;跨域凭证分发&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
+        <mxCell id="BYqKNGFPrdksZqyR5QS9-113" value="&lt;b&gt;跨链凭证分发&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
           <mxGeometry x="677" y="70" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-114" value="凭证导出" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
