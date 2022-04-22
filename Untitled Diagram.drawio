@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T12:55:34.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nnXKMLkhwgTq_RgQ6L3g" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T13:31:17.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yatbEtLwLMLk15XL22JJ" version="17.4.6" type="github">
   <diagram id="CHTWvZ9OObj7_jBJQ946" name="Page-1">
-    <mxGraphModel dx="1422" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,61 +208,31 @@
           <mxGeometry x="317.5" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-93" value="" style="group" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1" connectable="0">
-          <mxGeometry x="40" y="70" width="216" height="130" as="geometry" />
+          <mxGeometry x="40" y="70" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry width="216" height="130" as="geometry" />
+          <mxGeometry width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-85" value="&lt;b&gt;外部接入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry x="78" width="60" height="30" as="geometry" />
+          <mxGeometry x="108.33333333333334" width="83.33333333333333" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-88" value="查询接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry x="14" y="44" width="75" height="28" as="geometry" />
+          <mxGeometry x="19.444444444444443" y="44" width="104.16666666666666" height="28" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-89" value="身份申请验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry x="103" y="44" width="101" height="28" as="geometry" />
+          <mxGeometry x="143.05555555555554" y="44" width="140.27777777777777" height="28" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-90" value="资源访问" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry x="14" y="87" width="76.5" height="27" as="geometry" />
+          <mxGeometry x="19.444444444444443" y="87" width="106.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-91" value="权限管理接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="BYqKNGFPrdksZqyR5QS9-93" vertex="1">
-          <mxGeometry x="103" y="87" width="101" height="27" as="geometry" />
+          <mxGeometry x="143.05555555555554" y="87" width="140.27777777777777" height="27" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
-          <mxGeometry x="288" y="70" width="289" height="130" as="geometry" />
+          <mxGeometry x="432" y="70" width="289" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-97" value="&lt;b&gt;账本查询&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
-          <mxGeometry x="406" y="70" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-104" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
-          <mxGeometry x="490" y="105" width="75" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-105" value="数据&lt;br&gt;Evidence" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
-          <mxGeometry x="489" y="151.5" width="77" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-111" value="" style="group" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1" connectable="0">
-          <mxGeometry x="306" y="101.5" width="163" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="BYqKNGFPrdksZqyR5QS9-111" vertex="1">
-          <mxGeometry y="3" width="163" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-99" value="&lt;b&gt;分布式对账&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-111" vertex="1">
-          <mxGeometry x="41" width="79" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-110" value="" style="group" parent="BYqKNGFPrdksZqyR5QS9-111" vertex="1" connectable="0">
-          <mxGeometry x="9" y="25" width="143" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-100" value="账本生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-110" vertex="1">
-          <mxGeometry width="60" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-101" value="账本导出" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-110" vertex="1">
-          <mxGeometry x="69" width="73" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-102" value="账本导入" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-110" vertex="1">
-          <mxGeometry y="31" width="60" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="BYqKNGFPrdksZqyR5QS9-103" value="非对称加密" style="rounded=1;whiteSpace=wrap;html=1;" parent="BYqKNGFPrdksZqyR5QS9-110" vertex="1">
-          <mxGeometry x="69" y="31.5" width="74" height="27" as="geometry" />
+        <mxCell id="BYqKNGFPrdksZqyR5QS9-97" value="&lt;b&gt;用户管理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BYqKNGFPrdksZqyR5QS9-121" vertex="1">
+          <mxGeometry x="539.5" y="71" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BYqKNGFPrdksZqyR5QS9-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.019;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BYqKNGFPrdksZqyR5QS9-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -275,6 +245,15 @@
             <mxPoint x="486" y="43" as="sourcePoint" />
             <mxPoint x="536" y="-7" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fW6Bg58dKo-5TQdi1yOE-1" value="DID申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-73" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fW6Bg58dKo-5TQdi1yOE-2" value="凭证申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="43" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fW6Bg58dKo-5TQdi1yOE-3" value="凭证验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
