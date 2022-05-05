@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T09:44:17.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="zbMrzweOs9NkgVWKjPX_" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T09:45:02.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="EewDOg3sjx0-joVuAv5E" version="18.0.0" type="github">
   <diagram id="ghcUfPf-tJmSUkZoqm0j" name="Page-1">
     <mxGraphModel dx="1209" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="dAincey384vPkBa2ydyc-16" value="链码接口管理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;imageWidth=24;imageHeight=24;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="320" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="yx5_RM5pmbJ3CRORuYup-1" value="授权管理" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="yx5_RM5pmbJ3CRORuYup-1" value="用户授权与鉴权" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="690" y="320" width="30.5" height="180" as="geometry" />
         </mxCell>
       </root>
